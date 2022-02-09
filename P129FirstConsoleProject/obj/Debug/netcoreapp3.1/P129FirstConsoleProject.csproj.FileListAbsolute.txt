@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\bin\Debug\netcoreapp3.1\P129FirstConsoleProject.exe
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\bin\Debug\netcoreapp3.1\P129FirstConsoleProject.deps.json
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\bin\Debug\netcoreapp3.1\P129FirstConsoleProject.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\bin\Debug\netcoreapp3.1\P129FirstConsoleProject.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\bin\Debug\netcoreapp3.1\P129FirstConsoleProject.dll
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\bin\Debug\netcoreapp3.1\P129FirstConsoleProject.pdb
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.dll
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.pdb
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.genruntimeconfig.cache
+C:\Users\memme\Desktop\P129\Task\P129FirstConsoleProject\obj\Debug\netcoreapp3.1\P129FirstConsoleProject.csproj.AssemblyReference.cache
